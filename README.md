@@ -4,11 +4,11 @@
 
 ## Setup
 
-1. Go to a folder where you want to put the repository. Clone the repository from GitHub by running:
-   - `git clone https://github.com/yourrepositoryurl`
+1. Go to a folder where you want to put the repository. Accept the assignment and clone the repository from GitHub by running:
+   - `git clone https://github.com/username/yourrepositoryurl.git`
 
 2. Navigate into the cloned directory:
-   - `cd git-github-exercise`
+   - `cd foldername`
 
 ### Part 1: Basic Add and Commit
 
